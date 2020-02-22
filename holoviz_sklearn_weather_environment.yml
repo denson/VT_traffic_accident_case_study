@@ -1,0 +1,42 @@
+name: holoviz-sklearn-weather
+channels:
+  - pyviz
+  - defaults
+  - conda-forge
+dependencies:
+  - holoviz
+  - scikit-learn
+  - wget
+  - xarray
+  - geoviews
+  - selenium
+  - datashader
+  - python=3.7
+  - ipython
+  - matplotlib
+  - networkx
+  - param
+  - rise
+  - pandas
+  - dask
+  - netcdf4
+  - panel
+  - scikit-image
+  - bokeh
+  - pyct
+  - holoviews
+  - hvplot
+  - descartes
+  - fastparquet
+  - notebook
+  - numpy
+  - geojson
+  - geopandas
+  - ipykernel
+  - scipy
+  - wradlib
+  - arm_pyart
+  - jupyterlab
+
+
+# https://holoviews.org/user_guide/Installing_and_Configuring.html
